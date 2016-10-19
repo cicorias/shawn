@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/cicorias/shawn/issues"
   },
-  "homepage": "https://github.com/cicorias/shawn#readme"
+  "homepage": "https://github.com/cicorias/shawn#readme",
+  "dependencies": {
+    "ascii-art": "^1.1.1",
+    "install": "^0.8.1",
+    "npm": "^3.10.8"
+  }
 }
