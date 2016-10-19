@@ -1,0 +1,23 @@
+{
+  "name": "shawn",
+  "version": "0.0.1",
+  "description": "Stuff to make a Shawn",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cicorias/shawn.git"
+  },
+  "keywords": [
+    "shawn",
+    "shawn"
+  ],
+  "author": "Shawn Cicoria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cicorias/shawn/issues"
+  },
+  "homepage": "https://github.com/cicorias/shawn#readme"
+}
