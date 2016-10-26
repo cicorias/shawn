@@ -4,7 +4,7 @@
   "description": "Stuff to make a Shawn",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node ./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -21,8 +21,9 @@
   },
   "homepage": "https://github.com/cicorias/shawn#readme",
   "dependencies": {
-    "ascii-art": "^1.1.1",
-    "install": "^0.8.1",
-    "npm": "^3.10.8"
+    "ascii-art": "^1.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
   }
 }
